@@ -50,8 +50,12 @@
 <!--  </div>-->
     <q-page-container>
       <router-view />
+      <div class="fixed-bottom-right q-pa-sm">
+        <a class="" href="https://www.buymeacoffee.com/mayur091193" target="_blank">
+          <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 147px !important;" >
+        </a>
+      </div>
     </q-page-container>
-
   </q-layout>
 </template>
 

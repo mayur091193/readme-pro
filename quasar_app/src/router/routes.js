@@ -5,7 +5,8 @@ const routes = [
     component: () => import('layouts/MainLayout.vue'),
     children: [
       { path: '', component: () => import('pages/Index.vue') },
-      { path: '/main', component: () => import('pages/main.vue') }
+      { path: '/main', component: () => import('pages/main.vue') },
+      { path: '/github-profile-generator', component: () => import('pages/github-profile-generator.vue') }
     ]
   },
 
