@@ -61,31 +61,31 @@ Reach out to me at "mayur091193@gmail.com" for queries.
 <p float="left">
         <kbd>
 <img src="quasar_app/src/assets/home.png" border="1" alt="Login"
-        title="Login"  />
+        title="Home"  />
                 </kbd>
 </p>
 
 **Readme Generator**
 <p float="left">
 	<kbd>
-<img src="src/assets/home.png" border="1" alt="Home"
-	title="Home"  />
+<img src="quasar_app/src/assets/readme_generator.png" border="1" alt="Home"
+	title="Readme Generator"  />
 		</kbd>
 </p>
 
 **GitHub Profile README generator**
 <p float="left">
 	<kbd>
-<img src="src/assets/details.png" border="1" alt="Details"
-	title="Details"  />	
+<img src="quasar_app/src/assets/gh_generator.png" border="1" alt="Details"
+	title="GitHub Profile README generator"  />	
 	</kbd>
 </p>
 
 **GitHub Profile Preview**
 <p float="left">
 	<kbd>
-<img src="src/assets/category.png" border="1" alt="Category"
-	title="Category"  />
+<img src="quasar_app/src/assets/github_preview.png" border="1" alt="Category"
+	title="GitHub Profile Preview"  />
 	</kbd>
 </p>
 
