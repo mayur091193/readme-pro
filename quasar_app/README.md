@@ -60,7 +60,7 @@ Reach out to me at "mayur091193@gmail.com" for queries.
 **Home**
 <p float="left">
         <kbd>
-<img src="quasar_app/src/assets/home.png" border="1" alt="Login"
+<img src="src/assets/home.png" border="1" alt="Login"
         title="Home"  />
                 </kbd>
 </p>
@@ -68,7 +68,7 @@ Reach out to me at "mayur091193@gmail.com" for queries.
 **Readme Generator**
 <p float="left">
 	<kbd>
-<img src="quasar_app/src/assets/readme_generator.png" border="1" alt="Home"
+<img src="src/assets/readme_generator.png" border="1" alt="Home"
 	title="Readme Generator"  />
 		</kbd>
 </p>
@@ -76,7 +76,7 @@ Reach out to me at "mayur091193@gmail.com" for queries.
 **GitHub Profile README generator**
 <p float="left">
 	<kbd>
-<img src="quasar_app/src/assets/gh_generator.png" border="1" alt="Details"
+<img src="src/assets/gh_generator.png" border="1" alt="Details"
 	title="GitHub Profile README generator"  />	
 	</kbd>
 </p>
@@ -84,7 +84,7 @@ Reach out to me at "mayur091193@gmail.com" for queries.
 **GitHub Profile Preview**
 <p float="left">
 	<kbd>
-<img src="quasar_app/src/assets/github_preview.png" border="1" alt="Category"
+<img src="src/assets/github_preview.png" border="1" alt="Category"
 	title="GitHub Profile Preview"  />
 	</kbd>
 </p>
