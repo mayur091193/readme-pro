@@ -2,7 +2,7 @@
 
 An easy way to generate readme/GitHub profile readme written in Vue.js/Quasar.
 
-## Site: [https://readme-pro.netlify.com/](https://readmepro.netlify.app/)
+## Site: [https://readmepro.netlify.app/](https://readmepro.netlify.app/)
 
 ## Support
 
