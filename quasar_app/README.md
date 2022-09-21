@@ -10,6 +10,7 @@ If this hepls you in any way, you can contribute to this project by supporting m
 
 ### [💜 Support my open-source work on GitHub](https://github.com/sponsors/mayur091193)
 ### [💜 Buy me a Coffee](https://www.buymeacoffee.com/mayur091193)
+### [💜 Support me](https://paypal.me/mayurpp)
 
 Please check out my sponsor page and Buy me a coffee.
 
