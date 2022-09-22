@@ -11,32 +11,6 @@ An easy way to generate readme/GitHub profile readme written in Vue.js/Quasar.
 
 ## Site: [https://readmepro.netlify.app/](https://readmepro.netlify.app/)
 
-## Support
-
-If this hepls you in any way, you can contribute to this project by supporting me:
-
-### [💜 Support my open-source work on GitHub](https://github.com/sponsors/mayur091193)
-### [💜 Buy me a Coffee](https://www.buymeacoffee.com/mayur091193)
-### [💜 Support me](https://paypal.me/mayurpp)
-
-Please check out my sponsor page and Buy me a coffee.
-
-(Every small appreciation can make my day!)
-
-Thank you very much!!
-
-## Resources used
-* [Quasar Framework](https://quasar.dev/)
-* [Vue.js](https://vuejs.org/)
-
-## What it deliveres
-* Simple and easy way to generate readme and github profile readme file
-
-## Future release:
-* Lots of beautiful github profile templates
-* Backend(planning to use [Python](https://www.python.org/))
-
-
 ## Installation
 
 * **Clone the repository**
@@ -97,8 +71,30 @@ Reach out to me at "mayur091193@gmail.com" for queries.
 	</kbd>
 </p>
 
+## Resources used
+* [Quasar Framework](https://quasar.dev/)
+* [Vue.js](https://vuejs.org/)
+
+## Future release:
+* Lots of beautiful github profile templates
+* Backend(planning to use [Python](https://www.python.org/))
+
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+
+## Support
+
+If this hepls you in any way, you can contribute to this project by supporting me:
+
+### [💜 Support my open-source work on GitHub](https://github.com/sponsors/mayur091193)
+### [💜 Buy me a Coffee](https://www.buymeacoffee.com/mayur091193)
+### [💜 Support me](https://paypal.me/mayurpp)
+
+Please check out my sponsor page and Buy me a coffee.
+
+(Every small appreciation can make my day!)
+
+Thank you very much!!
 
 ## License
 
