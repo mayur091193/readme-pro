@@ -1,3 +1,10 @@
+<p float="left">
+	<kbd>
+<img src="src/assets/logo.png" border="1" alt="Details"
+	title="GitHub Profile README generator"  />	
+	</kbd>
+</p>
+
 # Readme Pro
 
 An easy way to generate readme/GitHub profile readme written in Vue.js/Quasar.
