@@ -1,3 +1,10 @@
+<p float="left">
+	<kbd>
+<img src="quasar_app/src/assets/logo.png" border="1" alt="Details"
+	title="Readme Pro"  />	
+	</kbd>
+</p>
+
 # Readme Pro
 
 An easy way to generate readme/GitHub profile readme written in Vue.js/Quasar.
