@@ -17,7 +17,10 @@ An easy way to generate readme/GitHub profile readme written in Vue.js/Quasar. G
 	</kbd>
 </p>
 
-
+## Resources used
+* [Quasar Framework](https://quasar.dev/)
+* [Vue.js](https://vuejs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
 
 ## Installation
 
