@@ -11,6 +11,11 @@ An easy way to generate readme/GitHub profile readme written in Vue.js/Quasar. G
 
 ## Site: [https://readmepro.netlify.app/](https://readmepro.netlify.app/)
 
+## Resources used
+* [Quasar Framework](https://quasar.dev/)
+* [Vue.js](https://vuejs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+
 ## Installation
 
 * **Clone the repository**
@@ -70,10 +75,6 @@ Reach out to me at "mayur091193@gmail.com" for queries.
 	title="GitHub Profile Preview"  />
 	</kbd>
 </p>
-
-## Resources used
-* [Quasar Framework](https://quasar.dev/)
-* [Vue.js](https://vuejs.org/)
 
 ## Future release:
 * Lots of beautiful github profile templates
