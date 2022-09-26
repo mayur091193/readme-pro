@@ -10,12 +10,6 @@
 An easy way to generate readme/GitHub profile readme written in Vue.js/Quasar. GitHub Ptofile README Generator.
 
 ## Site: [https://readmepro.netlify.app/](https://readmepro.netlify.app/)
-<p float="left">
-	<kbd>
-<img src="quasar_app/src/assets/logo.png" border="1" alt="Details"
-	title="Readme Pro"  />	
-	</kbd>
-</p>
 
 ## Resources used
 * [Quasar Framework](https://quasar.dev/)
