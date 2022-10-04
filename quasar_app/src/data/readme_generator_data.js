@@ -120,9 +120,9 @@ Vue.js, Quasar Framework, Python...
 `
         },
         {
-          label:'What it deliveres',
+          label:'What it delivers',
           value:`
-## What it deliveres
+## What it delivers
 * eCommerce UI template written in Vue.js/Quasar
 `
         },
@@ -202,7 +202,7 @@ quasar dev
 | :-------- | :------- | :-------------------------------- |
 | \`id\`      | \`string\` | **Required**. Id of item to fetch |
 #### add(num1, num2)
-Takes two numbers and returns the sum.
+Takes two numbers and returns their sum.
 `
         },
         {
@@ -322,7 +322,7 @@ Description...
           value:`
 ## Support
 
-If this hepls you in any way, you can contribute to this project by supporting me:
+If this helps you in any way, you can contribute to this project by supporting me:
 
 * [💜 Support my open-source work on GitHub](https://github.com/sponsors/mayur091193)
 
@@ -342,9 +342,9 @@ Thank you very much!!
 `
         },
         {
-          label:'What it deliver',
+          label:'What it delivers',
           value:`
-## What it deliveres
+## What it delivers
 * eCommerce UI template written in Vue.js/Quasar
 `
         },
