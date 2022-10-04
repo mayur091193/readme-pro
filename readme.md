@@ -7,7 +7,7 @@
 
 # Readme Pro
 
-An easy way to generate readme/GitHub profile readme written in Vue.js/Quasar. GitHub Ptofile README Generator.
+An easy way to generate readme/GitHub profile readme written in Vue.js/Quasar. GitHub Profile README Generator.
 
 ## Site: [https://readmepro.netlify.app/](https://readmepro.netlify.app/)
 
