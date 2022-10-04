@@ -120,9 +120,9 @@ Vue.js, Quasar Framework, Python...
 `
         },
         {
-          label:'What it deliveries',
+          label:'What it delivers',
           value:`
-## What it deliveries
+## What it delivers
 * eCommerce UI template written in Vue.js/Quasar
 `
         },
@@ -344,7 +344,7 @@ Thank you very much!!
         {
           label:'What it delivers',
           value:`
-## What it deliveries
+## What it delivers
 * eCommerce UI template written in Vue.js/Quasar
 `
         },
